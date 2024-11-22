@@ -1,0 +1,8 @@
+Package: ivankoskov.github.io
+Name: AutoClkrsTS
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: IOS 15 - 17 TrollStore auto clicker soft application with easy interface and the needed functionality
+Maintainer: Ivan Koskov
+Author: Ivan Koskov
+Section: Utilities
